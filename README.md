@@ -2,8 +2,8 @@
 
 A Computer Science Engineer who has 3-4 months Experience in smartData Enterprises.
 
--  I’m currently working & learning from HOME 🏠.
--  I’m currently learning.
+-  I’m currently working from HOME 🏠.
+-  I’m currently learning from HOME 🏠.
 
  📫 How to reach me: 
  
