@@ -2,8 +2,8 @@
 
 A Computer Science Engineer who has 3-4 months Experience in smartData Enterprises.
 
--  I’m Currently Working from HOME 🏠.
--  I’m Currently Learning at HOME 🏠.
+-  I’m Currently Working from HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="29px">.
+-  I’m Currently Learning at HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="29px">.
 
  📫 How to reach me: 
  
