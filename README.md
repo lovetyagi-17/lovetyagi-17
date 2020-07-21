@@ -11,7 +11,7 @@ A Computer Science Engineer who has 3-4 months Experience in smartData Enterpris
    <img align="left" alt="Love Tyagi | Linkedin" width="28px" src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Linkedin.svg" />
   </a>
 
- <a href="mailto:piyushpravin1998@gmail.com">
+ <a href="mailto:ltyagi58@gmail.com">
  <img align="left" alt="Love Tyagi | Gmail" width="30px" src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Gmail.svg" />
   </a>
  
