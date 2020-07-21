@@ -12,7 +12,7 @@ A Computer Science Engineer who has 3-4 months Experience in smartData Enterpris
   </a>
 
  <a href="mailto:piyushpravin1998@gmail.com">
- <img align="left" alt="Love Tyagi | Gmail" width="24px" src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Gmail.svg" />
+ <img align="left" alt="Love Tyagi | Gmail" width="26px" src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Gmail.svg" />
   </a>
  
  
