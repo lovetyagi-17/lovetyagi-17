@@ -1,9 +1,8 @@
 # Hey <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">  I'm Love
 
-A Computer Science Engineer who has 3-4 months Experience in smartData Enterprises.
+A Computer Science Engineer who have 3-4 months Experience in smartData Enterprises.
 
 -  I’m Currently Working from HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
-
 -  I’m Currently Learning at HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
 
  📫 How to reach me: 
