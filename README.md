@@ -8,6 +8,11 @@ A Computer Science Engineer who have 3-4 months Experience in smartData Enterpri
 <a href="https://github.com/lovetyagi-17/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lovetyagi-17&show_icons=true&theme=radical&line_height=27" alt="love's github stats" />
 </a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lovetyagi-17/count.svg" />
+</p>
  
  
 📫 How to reach me: 
