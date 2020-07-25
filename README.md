@@ -9,11 +9,6 @@ A Computer Science Engineer who have 3-4 months Experience in smartData Enterpri
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lovetyagi-17&show_icons=true&theme=radical&line_height=27" alt="love's github stats" />
 </a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lovetyagi-17/count.svg" />
-</p>
- 
  
 📫 How to reach me: 
  
@@ -24,3 +19,11 @@ A Computer Science Engineer who have 3-4 months Experience in smartData Enterpri
  <a href="mailto:ltyagi58@gmail.com">
  <img align="left" alt="Love Tyagi | Gmail" width="30px" src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Gmail.svg" />
   </a>
+
+
+<p align="left"> 
+  # Visitor count
+  <br>
+  <img src="https://profile-counter.glitch.me/lovetyagi-17/count.svg" />
+</p>
+ 
