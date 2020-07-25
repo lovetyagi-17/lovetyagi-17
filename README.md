@@ -28,7 +28,7 @@ A Computer Science Engineer who have 3-4 months Experience in smartData Enterpri
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lovetyagi-17&repo=github-readme-stats&theme=radical" />
 </a>    
-<a href="https://github.com/lovetyagi-17/anuraghazra.github.io">
+<a href="https://github.com/lovetyagi-17/.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lovetyagi-17&repo=anuraghazra.github.io&theme=radical" />
 </a>
