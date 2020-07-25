@@ -15,7 +15,7 @@ A Computer Science Engineer who have 3-4 months Experience in smartData Enterpri
  <img align="left" alt="Love Tyagi | Gmail" width="30px" src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Gmail.svg" />
   </a>
 
-
+<br>
 <a href="https://github.com/lovetyagi-17/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lovetyagi-17&show_icons=true&theme=radical&line_height=27" alt="love's github stats" />
 </a>
