@@ -24,9 +24,10 @@ A Computer Science Engineer who have 3-4 months Experience in smartData Enterpri
 <br>
 <br>
 <br>
+<!--
 Visitor count
 <p align="left" style=bold> 
   <br>
   <img src="https://profile-counter.glitch.me/lovetyagi-17/count.svg" />
 </p>
- 
+ -->
