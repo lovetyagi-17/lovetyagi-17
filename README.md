@@ -3,7 +3,7 @@
 A Computer Science Engineer who have 3-4 months Experience in smartData Enterprises.
 
 -  I’m Currently Working from HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
--  I’m Currently Learning at HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
+-  I’m Currently Learning JAVA at HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
 
 <a href="https://github.com/lovetyagi-17/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lovetyagi-17&show_icons=true&theme=radical&line_height=27" alt="love's github stats" />
