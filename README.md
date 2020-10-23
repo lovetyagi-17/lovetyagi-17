@@ -1,10 +1,12 @@
 # Hey <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">  I'm Love
 ![](https://komarev.com/ghpvc/?username=lovetyagi-17&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
-A Computer Science Engineer who have 3-4 months Experience of workig with smartData Enterprises.
+A FullStack Developer with smartData Enterprises.
 
 -  I’m Currently Working from HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
--  I’m Currently Learning JAVA at HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
+-  I'm aware with Basic of JAVA & C++<img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
+-  Currently investing my time in node & Express.<img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
+-  Working in Argo<img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
 
 <a href="https://github.com/lovetyagi-17/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lovetyagi-17&show_icons=true&theme=radical&line_height=27" alt="love's github stats" />
