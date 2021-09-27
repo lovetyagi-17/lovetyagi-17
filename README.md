@@ -4,7 +4,7 @@
 A FullStack Developer with smartData Enterprises.
 
 -  I’m Currently Working from HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
--  I'm aware with Basic of C++<img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
+-  I'm aware with Basic of JAVA<img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
 -  Currently investing my time in MEAN.
 
 <a href="https://github.com/lovetyagi-17/github-readme-stats">
