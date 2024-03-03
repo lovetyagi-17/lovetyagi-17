@@ -1,10 +1,8 @@
 # Hey <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">  I'm Love
 ![](https://komarev.com/ghpvc/?username=lovetyagi-17&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
-A FullStack Developer with smartData Enterprises.
+An Backend developer.
 
--  I’m Currently Working from HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
--  I'm aware with Basic of JAVA<img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
 -  Currently investing my time in Backend Technologies (nodejs & nestjs) 
 
 <a href="https://github.com/lovetyagi-17/github-readme-stats">
