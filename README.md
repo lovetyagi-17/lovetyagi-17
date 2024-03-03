@@ -5,7 +5,7 @@ A FullStack Developer with smartData Enterprises.
 
 -  I’m Currently Working from HOME <img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
 -  I'm aware with Basic of JAVA<img src="https://github.com/lovetyagi-17/lovetyagi-17/blob/master/Home.svg" width="26px">.
--  Currently investing my time in MEAN.
+-  Currently investing my time in Backend Technologies (nodejs & nestjs) 
 
 <a href="https://github.com/lovetyagi-17/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lovetyagi-17&show_icons=true&theme=radical&line_height=27" alt="love's github stats" />
